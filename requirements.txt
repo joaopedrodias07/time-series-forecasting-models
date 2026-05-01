@@ -1,0 +1,19 @@
+# Manipulação de Dados e Matemática
+pandas
+numpy
+scipy
+
+# Visualização
+matplotlib
+seaborn
+
+# Modelagem de Séries Temporais
+statsmodels
+pmdarima
+tbats
+
+# Métricas e Avaliação
+scikit-learn
+
+# Salvamento de modelos
+joblib

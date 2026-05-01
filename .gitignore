@@ -1,0 +1,12 @@
+# Ambiente Virtual
+venv/
+.venv/
+
+# Modelos treinados (arquivos pesados)
+models/*.joblib
+models/*.pkl
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
