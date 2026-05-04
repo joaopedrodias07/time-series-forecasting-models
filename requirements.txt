@@ -1,3 +1,6 @@
+#Pré-processamento de PDF
+pdfplumber
+
 # Manipulação de Dados e Matemática
 pandas
 numpy
